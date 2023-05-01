@@ -5,8 +5,8 @@
 <br>[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gabrieldevfull&bg_color=000000&color=87cefa&line=000080&point=7d7aff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://reed0ne-git-master-reed0ne.vercel.app/api?username=Gabrieldevfull&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Gabrieldevfull github stats" /> 
-  <img width="41%" height="195px" src="https://reed0ne-git-master-reed0ne.vercel.app/api/top-langs/?username=Gabrieldevfull&layout=compact&hide_border=true&title_color=6A5ACD&text_color=87CEFA&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://reed0ne-readme-stats.vercel.app/api?username=Gabrieldevfull&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Gabrieldevfull github stats" /> 
+  <img width="41%" height="195px" src="https://reed0ne-readme-stats.vercel.app/api/top-langs/?username=Gabrieldevfull&layout=compact&hide_border=true&title_color=6A5ACD&text_color=87CEFA&bg_color=0d1117" />
 </div><br>
 
 <p align="center">
